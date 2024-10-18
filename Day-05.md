@@ -49,3 +49,6 @@
 ### Pour apprendre le terminal Linux / Mac :
 
 - [ ] Sur GitBash, Faire le [wargame] bandit jusqu'au niveau 5 (https://overthewire.org/wargames/bandit/bandit0.html)
+     ```bash
+      ssh bandit0@bandit.labs.overthewire.org -p 2220
+    ```
