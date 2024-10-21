@@ -45,12 +45,6 @@ N'hésite pas à demander d'autres modifications si besoin !
   - [ ] **Créer un repository pour le projet :**  
     Configurer un dépôt Git pour suivre les modifications.
 
-- **Planification du design :**  
-  - [ ] **Établir une maquette :**  
-    Utiliser des outils comme Figma ou Adobe XD pour esquisser la structure du site basé sur le modèle.
-  - [ ] **Discuter des choix de styles :**  
-    Identifier les polices, couleurs et styles qui seront utilisés.
-
 ---
 
 ### Compétences à mobiliser
