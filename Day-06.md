@@ -7,19 +7,18 @@
 
 ---
 
-### Gestion de projet / Méthodologie de travail
+### Méthodologie de travail
 
-- [ ] **Méthodologie de travail :**
-  - **Importance :** Cruciale pour la réussite d'un projet.
-  - [ ] **Méthodes à explorer :**
+
+- [ ] **Méthodes à explorer :**
     - [ ] **Agile :** Flexibilité, adaptabilité, retours rapides.
     - [ ] **Scrum :** Sprints, gestion des tâches, collaboration.
     - [ ] **Kanban :** Visualisation du travail, optimisation du flux.
     - [ ] **Waterfall :** Séquentielle, phases définies.
 
-  - [ ] **Peer Programming :** Collaboration entre deux développeurs, partage d'idées, montée en compétences.
-  - [ ] **Dual Coding :** Tâches différentes, synchronisation, efficacité dans la résolution de problèmes.
-  - ... 
+- [ ] **Peer Programming :** Collaboration entre deux développeurs, partage d'idées, montée en compétences.
+- [ ] **Dual Coding :** Tâches différentes, synchronisation, efficacité dans la résolution de problèmes.
+- ... 
 
 ---
 
