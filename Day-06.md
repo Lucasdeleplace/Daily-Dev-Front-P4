@@ -22,7 +22,6 @@
 
 ---
 
-N'hésite pas à demander d'autres modifications si besoin !
 ### Objectifs principaux :
 
 ### Faire un site en HTML et CSS
