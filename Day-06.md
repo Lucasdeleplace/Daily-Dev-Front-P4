@@ -33,7 +33,7 @@ N'hésite pas à demander d'autres modifications si besoin !
     Quelles sont les attentes en termes de rendu et de fonctionnalité ?
 
 - **Organisation du travail :**  
-  - [ ] **Former les groupes de trois :**  
+  - [ ] **Former les groupes de quatre :**  
     Chaque groupe sera responsable d'une section du site (header, contenu, footer).
   - [ ] **Répartir les rôles au sein du groupe :**  
     Qui s'occupe du HTML, qui du CSS, et qui de la mise en page générale ?
