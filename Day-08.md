@@ -69,7 +69,7 @@
 
 #### Compétences spécifiques Développeur Front-End
 - **C2**. Réaliser une interface utilisateur web statique et adaptable.
-- **C3**. Développer une interface utilisateur web dynamique.
+- **C3**. Développer une interface utilisateur web dynamique.git s
 
 #### Compétences transversales
 - **C1**. Planifier le travail à effectuer individuellement et en équipe afin d’optimiser le travail nécessaire à l’atteinte de l’objectif visé.
