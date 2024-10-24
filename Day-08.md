@@ -60,8 +60,11 @@
 
 ---
 
-### Bonus :
-- Ajouter d’autres pages HTML et utiliser Flexbox ou Grid pour une mise en page moderne.  
+## Introduction au JS :
+
+- [ ] **Les variables en JS**  
+- [ ] **Les types**  
+- [ ] branches conditionnelles **ifelse**  
 
 ---
 
