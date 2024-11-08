@@ -1,4 +1,4 @@
-### Vendredi 09/11/2024
+### Vendredi 08/11/2024
 
 #### Brief
 ---
@@ -7,6 +7,9 @@
 
 #### Héritage
 - [ ] **Comprendre ce qu'est l'héritage :**
+
+  L'héritage est un principe de la programmation orientée objet qui permet à une classe (dite classe enfant ou sous-classe) de hériter des propriétés et des méthodes d'une autre classe (dite classe parent ou super-classe). Cela permet de réutiliser le code et de créer des relations hiérarchiques entre les classes.
+  
   - [ ] **À quoi sert l'héritage ?**  
     Partager des propriétés et méthodes communes entre plusieurs classes.
   - [ ] **Comment écrire de l'héritage ?**  
@@ -24,7 +27,6 @@
     Définir un contrat pour les classes, sans implémentation.
   - [ ] **Différence avec une classe abstraite :**  
     Comparer les interfaces et les classes abstraites, comprendre leurs usages respectifs.
-
 ---
 
 #### Relations entre Objets (UML)
